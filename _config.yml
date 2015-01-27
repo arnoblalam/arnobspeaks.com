@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Arnob's DevBlog
+url: http://arnobspeaks.com
+description: For rants (and things)
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
