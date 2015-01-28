@@ -21,19 +21,21 @@ $$F$$ is the forward exchange rate
 
 $$f$$ is the forward premium
 
+$$i$$ is the domestic interest rate
+
+$$i^*$$ is the foreign interest rate
+
+The second line is the covered interest rate parity condition.
+
 Maniulating some variables, we obtain:
 
 $$
 \begin{align*}
 \frac{F}{S} &= \frac{1 + i}{1 + i^*} \\
-&= \frac{i-i^*}{i+i^*} \approx i - i^* \\
-i &\approx i^* + f
+f &= \frac{i-i^*}{i+i^*} \approx i - i^* \\
+\therefore i &\approx i^* + f
 \end{align*}
 $$
-
-$$i$$ is the current interest rate
-
-$$i^*$$ is the expected future interest rate
 
 # Uncovered interest rate parity
 
