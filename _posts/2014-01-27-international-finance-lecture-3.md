@@ -27,12 +27,12 @@ $$i^*$$ is the foreign interest rate
 
 The second line is the covered interest rate parity condition.
 
-Maniulating some variables, we obtain:
+Manipulating some variables, we obtain:
 
 $$
 \begin{align*}
 \frac{F}{S} &= \frac{1 + i}{1 + i^*} \\
-f &= \frac{i-i^*}{i+i^*} \approx i - i^* \\
+f &= \frac{F}{S} - 1 &= \frac{i-i^*}{i+i^*} \approx i - i^* \\
 \therefore i &\approx i^* + f
 \end{align*}
 $$
