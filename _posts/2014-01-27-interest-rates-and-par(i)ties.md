@@ -4,7 +4,7 @@ categories: international-finance class-notes
 
 # Covered interest rate parity
 
-Covered interest parity refers to the condition that the interest rates and forwards prices move in such a way that any gains due to nominal interest rate differences between two countries is wiped out by the premium on the forward premium.  Formally:
+Covered interest parity refers to the condition that the interest rates and forwards prices move in such a way that any gains due to nominal interest rate differences between two countries are wiped out by the premium on the forward contract.  Formally:
 
 $$
 \begin{align*}
@@ -15,13 +15,13 @@ $$
 
 where:
 
-$$S$$ is the spot exchange rate  
-$$F$$ is the forward exchange rate  
-$$f$$ is the forward premium  
-$$i$$ is the domestic interest rate  
+$$S$$ is the spot exchange rate
+$$F$$ is the forward exchange rate
+$$f$$ is the forward premium
+$$i$$ is the domestic interest rate
 $$i^*$$ is the foreign interest rate
 
-The second line is the covered interest rate parity condition.
+The second line is the covered interest rate parity condition.  We wish to show that the gains from interest rate difference between two countries ($$ i - i^*$$) is absorbed by the premium on the forward contract.
 
 Manipulating some variables, we obtain:
 
