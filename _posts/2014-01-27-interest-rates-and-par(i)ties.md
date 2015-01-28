@@ -43,6 +43,6 @@ i \equiv i^* + \Delta S^e
 $$
 
 
-# How well does it hold up
+# How well does it hold up?
 
 Covered intereste parity holds up quite well.  This is likely because traders set ptices on forwards contracts to make the covered interest rate parity condition come true.  Uncovered interest rate parity conditions do not hold up as well (although what the future expected interest rate is, is hard to measure).
