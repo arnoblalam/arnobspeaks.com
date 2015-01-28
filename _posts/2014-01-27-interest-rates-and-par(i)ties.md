@@ -39,7 +39,7 @@ $$
 The uncovered interest rate parity condition states that the differences in nominal interest rates between two countries is explained by the expected change in exchange rates:
 
 $$
-i = i^* + \Delta S^e
+i \equiv i^* + \Delta S^e
 $$
 
 
