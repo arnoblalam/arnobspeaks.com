@@ -1,5 +1,4 @@
 ---
-layout: post
 categories: international-finance class-notes
 ---
 
