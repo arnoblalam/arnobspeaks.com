@@ -19,7 +19,7 @@ $$S$$ is the spot exchange rate \\
 $$F$$ is the forward exchange rate \\
 $$f$$ is the forward premium \\
 $$i$$ is the domestic interest rate \\
-$$i^*$$ is the foreign interest rate \\
+$$i^*$$ is the foreign interest rate
 
 The second line is the covered interest rate parity condition.  We wish to show that the gains from interest rate difference between two countries ($$ i - i^*$$) is absorbed by the premium on the forward contract.
 
