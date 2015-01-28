@@ -4,7 +4,7 @@ categories: international-finance class-notes
 
 # Covered interest rate parity
 
-Covered interest parity refers to the condition that the interest rates and futures prices move in such a way that any gains due to nominal interest rate differences between two countries is wiped out by the premium on the forward premium.  Formally:
+Covered interest parity refers to the condition that the interest rates and forwards prices move in such a way that any gains due to nominal interest rate differences between two countries is wiped out by the premium on the forward premium.  Formally:
 
 $$
 \begin{align*}
@@ -40,6 +40,13 @@ $$
 
 # Uncovered interest rate parity
 
+The uncovered interest rate parity condition states that the differences in nominal interest rates between two countries is explained by the expected change in exchange rates.
+
 $$
-i = i^* + \Delta s^e
+i = i^* + \Delta S^e
 $$
+
+
+# How well does it hold up
+
+Covered intereste parity holds up quite well.  This is likely because traders set ptices on forwards contracts to make the covered interest rate parity condition come true.  Uncovered interest rate parity conditions do not hold up as well (although what the future expected interest rate is, is hard to measure)
