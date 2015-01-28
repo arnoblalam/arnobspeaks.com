@@ -32,7 +32,8 @@ Manipulating some variables, we obtain:
 $$
 \begin{align*}
 \frac{F}{S} &= \frac{1 + i}{1 + i^*} \\
-f &= \frac{F}{S} - 1 &= \frac{i-i^*}{i^*+1} \approx i - i^* \\
+f &= \frac{F}{S} - 1 \\
+&= \frac{i-i^*}{i^*+1} \approx i - i^* \\
 \therefore i &\approx i^* + f
 \end{align*}
 $$
