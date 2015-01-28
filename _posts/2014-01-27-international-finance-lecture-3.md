@@ -8,7 +8,7 @@ Covered interest parity refers to the condition that the interest rates and futu
 
 $$
 \begin{align*}
-f &\equiv \frac{F - S}{S} 
+f &\equiv \frac{F - S}{S} \\
 (1 + i)S &\equiv (1 + i^*)F
 \end{align*}
 $$
@@ -24,7 +24,7 @@ $$f$$ is the forward premium
 Maniulating some variables, we obtain:
 
 $$
-\begi{align*}
+\begin{align*}
 \frac{F}{S} &= \frac{1 + i}{1 + i^*} \\
 &= \frac{i-i^*}{i+i^*} \approx i - i^* \\
 i &\approx i^* + f
