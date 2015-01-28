@@ -15,14 +15,10 @@ $$
 
 where:
 
-$$S$$ is the spot exchange rate
-
-$$F$$ is the forward exchange rate
-
-$$f$$ is the forward premium
-
-$$i$$ is the domestic interest rate
-
+$$S$$ is the spot exchange rate  
+$$F$$ is the forward exchange rate  
+$$f$$ is the forward premium  
+$$i$$ is the domestic interest rate  
 $$i^*$$ is the foreign interest rate
 
 The second line is the covered interest rate parity condition.
