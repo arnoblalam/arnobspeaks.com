@@ -7,9 +7,9 @@ highlighter: pygments
 markdown: kramdown
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 defaults:
-	-
-		scope:
-			path: ""
-			type: "posts"
-		values:
-			layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
