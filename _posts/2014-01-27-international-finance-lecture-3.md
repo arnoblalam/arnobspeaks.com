@@ -11,6 +11,7 @@ $$
 \frac{F}{S} = \frac{1 + i}{1 + i^*} \\
 FID = \frac{F - S}{S} = \frac{i-i^*}{i+i^*} \approx i - i^* \\
 i \approx i^* + FID
+
 $$
 
 where :
