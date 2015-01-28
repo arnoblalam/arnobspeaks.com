@@ -8,7 +8,7 @@ Covered interest parity refers to the condition that the interest rates and futu
 
 $$
 \begin{align*}
-f &\equiv \frac{F - S}{S} = \frac{F}{S} - 1 \\
+f &\equiv \frac{F - S}{S} &= \frac{F}{S} - 1 \\
 (1 + i)S &\equiv (1 + i^*)F
 \end{align*}
 $$
