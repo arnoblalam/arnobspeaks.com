@@ -5,7 +5,7 @@ author: Arnob Alam
 
 Sometimes having more data can actually cloud the relationships between variables.  Let's look at a model of something experiencing geometric growth (like the economy, hopefully) with random shocks.
 
-Start with a model where there is no randomness. Assume output (GDP) is a function of the growth rate $$\bar{r}$$, with an initial starting GDP of $$\bar{Y(0)}$$ (we will use the bar to indicate varaibles that are not random numbers).
+Start with a model where there is no randomness. Assume output (GDP) is a function of the growth rate $$\overbar{r}$$, with an initial starting GDP of $$\overbar{Y(0)}$$ (we will use the bar to indicate varaibles that are not random numbers).
 
 What will the level of GDP be at time $$t=1$$?
 
