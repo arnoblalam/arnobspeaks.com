@@ -1,5 +1,6 @@
 ---
 categories: international-finance class-notes
+author: Arnob Alam
 ---
 
 # Covered interest rate parity

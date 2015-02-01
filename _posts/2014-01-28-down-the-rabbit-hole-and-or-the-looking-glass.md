@@ -1,5 +1,6 @@
 ---
 categories: rants
+author: Arnob Alam
 ---
 
 # Or how I learned to stop worrying and use kramdown
