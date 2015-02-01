@@ -8,7 +8,7 @@ between variables.  Let's look at a model of something experiencing geometric
 growth (like your bank account, hopefully) random shocks.
 
 Let's start with a model where there is no randomness. You deposit
-$$Y_0$$ in your bank acount at time $$t=$0$ which pays interest $$r$$.
+$$Y_0$$ in your bank acount at time $$t=0$$ which pays interest $$r$$.
 You want to find out how much money you will have at time $$t=1$$:
 
 $$
