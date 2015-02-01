@@ -28,7 +28,4 @@ $$
 Y(t) = Y(0)(1+r)^t \\
 $$
 
-Let's add a bit of randomness to the model. Instead of being able to add a 
-specific amount every year, you sometimes have to take out money (for medical 
-expenses, for example), or deposit extra money (performance bonus). Let's say
-at any
+Let's now add a bit of randomness to the model. The economy experiences random shocks, so instead of having a level $$Y(0)$$ at time 0, it has the level $$Y(0) + \Delta Y(0)$$, where $$\Delta Y(0)$$ is some (negative or positive) shock to the economy.
