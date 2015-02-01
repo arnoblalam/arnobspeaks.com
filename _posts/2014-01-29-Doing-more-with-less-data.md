@@ -12,11 +12,13 @@ $Y_0$ in your bank acount at time $t=0$ which pays interest $r$.
 You want to find out how much money you will have at time $t=1$
 
 $$
-Y(1) &= Y(0) + Y(0)*r = Y(0)(1+r) \\
+Y(1) &= Y(0) + Y(0)*r = Y(0)(1+r)
 $$
 
 You don't take out the money at $t=1$ so it continues to accrue interest.
 How much money will you have at time $t=2$?
+
+$$
 Y(2) = Y(1) + Y(1)*r = Y(1)(1+r) \\
 \because Y(1) &= Y(0) + Y(0)*r = Y(0)(1+r) \\
 \therefore Y(2) &= Y(0)(1+r)(1+r) = Y(0)(1+r)^2
